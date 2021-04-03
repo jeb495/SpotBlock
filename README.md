@@ -1,2 +1,2 @@
 # SpotBlock
-Spotify Ad Block
+A spotify ad blocker for windows
