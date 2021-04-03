@@ -1,0 +1,2 @@
+# SpotBlock
+Spotify Ad Block
